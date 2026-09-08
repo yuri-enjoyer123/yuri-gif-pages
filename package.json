@@ -1,0 +1,12 @@
+{
+  "name": "yuri-gif-pages",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/generate.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
